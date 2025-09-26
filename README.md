@@ -12,9 +12,9 @@
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=0e75b6&style=flat)  
-[![GitHub followers](https://img.shields.io/github/followers/your-username?style=social)](https://github.com/your-username)  
-[![GitHub stars](https://img.shields.io/github/stars/your-username?style=social)](https://github.com/your-username)  
+![Profile Views](https://komarev.com/ghpvc/?username=code-with-akki010&label=Profile%20Views&color=0e75b6&style=flat)  
+[![GitHub followers](https://img.shields.io/github/followers/code-with-akki010?style=social)](https://github.com/your-username)  
+[![GitHub stars](https://img.shields.io/github/stars/code-with-akki010?style=social)](https://github.com/your-username)  
 
 ---
 
@@ -48,26 +48,24 @@
 
 | 📈 Stats | 🔥 Streak | 💻 Languages |
 |----------|-----------|--------------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight&hide_border=true) |
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=code-with-akki010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=code-with-akki010&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-akki010&layout=compact&theme=tokyonight&hide_border=true) |
 
 ---
 
 ### 📌 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=your-username&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=00BFFF&point=FFFFFF)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-akki010&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=00BFFF&point=FFFFFF)
 
 ---
 
 ### 🐍 Contribution Snake  
-![GitHub Snake](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake](https://github.com/code-with-akki010/code-with-akki010/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
 ---
 
 ## 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](#)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](#)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@akshaybasak010@gmail.com)   
 
 ---
 
