@@ -46,7 +46,7 @@
 
 <div align="center">
 
-| 📈 Stats | 🔥 Streak | 💻 Languages |
+| 📈 Status | 🔥 Streak | 💻 Languages |
 |----------|-----------|--------------|
 | ![GitHub Status](https://github-readme-stats.vercel.app/api?username=code-with-akki010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?username=code-with-akki010&theme=tokyonight&hide_border=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-akki010&layout=compact&theme=tokyonight&hide_border=true) |
 
@@ -58,7 +58,7 @@
 ---
 
 ### 🐍 Contribution Snake  
-![GitHub Snake](https://github.com/code-with-akki010/code-with-akki010/blob/output/github-contribution-grid-snake.svg)
+![snake animation](https://raw.githubusercontent.com/code-with-akki010/code-with-akki010/output/github-contribution-grid-snake.svg)
 
 </div>
 
