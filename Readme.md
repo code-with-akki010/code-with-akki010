@@ -58,7 +58,7 @@
 ---
 
 ### 🐍 Contribution Snake  
-https://raw.githubusercontent.com/code-with-akki010/code-with-akki010/dist/github-contribution-grid-snake.svg
+![Contribution Snake](https://raw.githubusercontent.com/code-with-akki010/code-with-akki010/dist/github-contribution-grid-snake.svg)
 
 </div>
 
