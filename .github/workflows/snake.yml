@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs daily at midnight UTC
+    - cron: "0 0 * * *"   # Runs every day at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -19,11 +19,13 @@ jobs:
         uses: Platane/snk/svg-only@v3
         with:
           github_user_name: code-with-akki010
-          outputs: dist/github-contribution-grid-snake.svg
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          add: "dist/github-contribution-grid-snake.svg"
+          add: "dist/*"
           message: "Generate snake"
-          branch: output   # <-- IMPORTANT: this ensures file goes to output branch
+          branch: output
