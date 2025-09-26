@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *"   # Runs daily at midnight UTC
   workflow_dispatch:
 
 jobs:
@@ -21,9 +21,9 @@ jobs:
           github_user_name: code-with-akki010
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push Snake to output branch
+      - name: Push to output branch
         uses: EndBug/add-and-commit@v9
         with:
           add: "dist/github-contribution-grid-snake.svg"
           message: "Generate snake"
-          branch: output
+          branch: output   # <-- IMPORTANT: this ensures file goes to output branch
