@@ -13,8 +13,8 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=code-with-akki010&label=Profile%20Views&color=0e75b6&style=flat)  
-[![GitHub followers](https://img.shields.io/github/followers/code-with-akki010?style=social)](https://github.com/your-username)  
-[![GitHub stars](https://img.shields.io/github/stars/code-with-akki010?style=social)](https://github.com/your-username)  
+[![GitHub followers](https://img.shields.io/github/followers/code-with-akki010?style=social)](https://github.com/code-with-akki010)  
+[![GitHub stars](https://img.shields.io/github/stars/code-with-akki010?style=social)](https://github.com/code-with-akki010)  
 
 ---
 
