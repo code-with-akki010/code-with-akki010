@@ -2,30 +2,46 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"   # Runs every day at midnight UTC
-  workflow_dispatch:
+    - cron: "0 0 * * *"    # daily at 00:00 UTC (change if you want)
+  workflow_dispatch:      # allows manual runs
+
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
-    permissions:
-      contents: write
 
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          persist-credentials: true
 
-      - name: Generate Snake
+      - name: Generate snakes (light + dark)
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: code-with-akki010
+          github_user_name: code-with-akki010   # ← replace with your username
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Show generated files (debug)
+        run: |
+          ls -la dist || true
+
+      - name: Move generated SVGs to repo root
+        run: |
+          mv dist/*.svg . || true
+          ls -la *.svg || true
+
+      - name: Commit and push to output branch
         uses: EndBug/add-and-commit@v9
         with:
-          add: "dist/*"
+          author_name: github-actions
+          author_email: actions@github.com
           message: "Generate snake"
+          add: "*.svg"
           branch: output
+          token: ${{ secrets.GITHUB_TOKEN }}
