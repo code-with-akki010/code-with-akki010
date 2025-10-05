@@ -55,7 +55,7 @@
       <br><b>📈 GitHub Stats</b>
     </td>
     <td align="center" style="background: linear-gradient(135deg,#1a1a2e,#16213e); border-radius:15px; padding:10px; box-shadow:0 0 15px #ff0055;">
-      [![GitHub Streak](https://streak-stats.demolab.com?user=code-with-akki010&theme=tokyonight&hide_border=true)](https://streak-stats.demolab.com?user=code-with-akki010)
+      <img src="https://streak-stats.vercel.app?user=code-with-akki010&theme=tokyonight&hide_border=true" height="180" />
       <br><b>🔥 Contribution Streak</b>
     </td>
     <td align="center" style="background: linear-gradient(135deg,#1a1a2e,#16213e); border-radius:15px; padding:10px; box-shadow:0 0 15px #00ffaa;">
