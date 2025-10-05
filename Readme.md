@@ -46,15 +46,32 @@
 
 <div align="center">
 
-| 📈 Status | 🔥 Streak | 💻 Languages |
-|----------|-----------|--------------|
-| ![GitHub Status](https://github-readme-stats.vercel.app/api?username=code-with-akki010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true) | [![GitHub Streak](https://streak-stats.demolab.com/?user=code-with-akki010&theme=dark&hide_border=true)](https://git.io/streak-stats) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-akki010&layout=compact&theme=tokyonight&hide_border=true) |
+### 🌌 **My GitHub Analytics Dashboard**
 
+<table>
+  <tr>
+    <td align="center" style="background: linear-gradient(135deg,#1a1a2e,#16213e); border-radius:15px; padding:10px; box-shadow:0 0 15px #00aaff;">
+      <img src="https://github-readme-stats.vercel.app/api?username=code-with-akki010&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180" />
+      <br><b>📈 GitHub Stats</b>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg,#1a1a2e,#16213e); border-radius:15px; padding:10px; box-shadow:0 0 15px #ff0055;">
+      <img src="https://streak-stats.demolab.com?user=code-with-akki010&theme=tokyonight&hide_border=true" height="180" />
+      <br><b>🔥 Contribution Streak</b>
+    </td>
+    <td align="center" style="background: linear-gradient(135deg,#1a1a2e,#16213e); border-radius:15px; padding:10px; box-shadow:0 0 15px #00ffaa;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-with-akki010&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+      <br><b>💻 Top Languages</b>
+    </td>
+  </tr>
+</table>
 ---
 
-### 📌 Contribution Graph  
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=code-with-akki010&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=36BCF7&line=00BFFF&point=FFFFFF)
+### ✨ **Dynamic GitHub Graph**
+<a href="https://github.com/code-with-akki010/github-readme-activity-graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=code-with-akki010&bg_color=0d1117&color=00ffff&line=00ff99&point=ffffff&area=true&hide_border=true" width="100%"/>
+</a>
 
+</div>
 ---
 
 ### 🐍 Contribution Snake  
