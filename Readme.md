@@ -64,6 +64,7 @@
     </td>
   </tr>
 </table>
+
 ---
 
 ### ✨ **Dynamic GitHub Graph**
@@ -72,6 +73,7 @@
 </a>
 
 </div>
+
 ---
 
 ### 🐍 Contribution Snake  
