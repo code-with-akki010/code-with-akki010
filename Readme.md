@@ -19,13 +19,13 @@
 ---
 
 ## 🚀 About Me  
-- 👨‍💻 Name: Akshay Basak
-- 🎓 Degree: Computer Science Undergraduate
-- 🎯 Goal: Become an Innovative Software Engineer
-- 📚 Focus: DSA | Web Dev | Data Science | AI/ML
-- ⚡ Motto: Code • Learn • Build • Repeat
-- 🌱 Currently Learning: Open Source • GATE (CSE + DA)
-- 💬 Ask Me About: Projects, Tech, or Collaboration Ideas
+- 👨‍💻 Name: **Akshay Basak**
+- 🎓 Degree: **Computer Science Undergraduate**
+- 🎯 Goal: **Become an Innovative Software Engineer**
+- 📚 Focus: **DSA | Web Dev | Data Science | AI/ML**
+- ⚡ Motto: **Code • Learn • Build • Repeat**
+- 🌱 Currently Learning: **Open Source • GATE (CSE + DA)**
+- 💬 Ask Me About: **Projects, Tech, or Collaboration Ideas**
 
 ---
 
